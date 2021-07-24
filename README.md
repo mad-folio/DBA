@@ -8,8 +8,13 @@ https://ethos.bl.uk/
 
 ## Thoughts
 There are over 80 PHD thesis with design thinking in the abstract and 1 DBA
+Design thinking and design leadership.
 
 ## Design Thinking In Academia
+### DBA Theses
+
+See page 37 of  [Designing Change In A Higher Education Institutation, Madden, 2017](https://repository.cardiffmet.ac.uk/bitstream/handle/10369/9930/Final%20Thesis%20Heather%20Madden.pdf?sequence=1&isAllowed=y)
+
 
 ## EDA In Academia
 [Monolithic To Microservices Redesign Of Event Driven Integration Platform](https://github.com/mad-folio/DBA/files/6872364/MonolithictoMicroservicesredesignofeventdrivenintegrationplatform.pdf) from [ResearchGate](https://www.researchgate.net/publication/326699683_Monolithic_to_microservices_redesign_of_event_driven_integration_platform)
