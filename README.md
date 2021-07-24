@@ -8,6 +8,7 @@ https://ethos.bl.uk/
 
 ## Thoughts
 There are over 80 PHD thesis with design thinking in the abstract and 1 DBA
+
 Design thinking and design leadership.
 
 ## Design Thinking In Academia
