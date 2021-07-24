@@ -27,9 +27,11 @@ Design thinking and design leadership.
 
 ## EDA In Academia
 
-### Microservices
+## Microservices In Academia
+### Papers
 [Microservices: A Systematic Mapping Study](https://www.scitepress.org/Papers/2016/57855/57855.pdf)
 
 [Monolithic To Microservices Redesign Of Event Driven Integration Platform](https://github.com/mad-folio/DBA/files/6872364/MonolithictoMicroservicesredesignofeventdrivenintegrationplatform.pdf) from [ResearchGate](https://www.researchgate.net/publication/326699683_Monolithic_to_microservices_redesign_of_event_driven_integration_platform)
 
+### Books
 [The Tao Of Microservices](https://books.google.no/books?hl=en&lr=&id=wTozEAAAQBAJ&oi=fnd&pg=PT16&dq=microservices+design+thinking&ots=sI4Li9u_J8&sig=HMSL_RrpHVCiypvWmZwgit0bPbs&redir_esc=y#v=onepage&q=microservices%20design%20thinking&f=false)
