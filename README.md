@@ -21,6 +21,7 @@ Design thinking and design leadership.
 
 ### Papers
 [How might we use Design Thinking for Digital Business Design and for creating Digital Business Value?](https://www.econstor.eu/bitstream/10419/184931/1/Baum.pdf)
+[EDA and SOA](https://www.omg.org/soa/Uploaded%20Docs/EDA/bda2-2-06cc.pdf)
 
 ### Books
 [Harnessing Digital Disruption : How Companies Win with Design Thinking, Agile, and Lean Startup](https://books.google.no/books?hl=en&lr=&id=yRkOEAAAQBAJ&oi=fnd&pg=PT6&dq=microservices+design+thinking&ots=3lsWHoHGmA&sig=bPj444IRJZsq3u67ZxUy7JFIBuY&redir_esc=y#v=onepage&q=microservices%20design%20thinking&f=false)
