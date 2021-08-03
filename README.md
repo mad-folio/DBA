@@ -33,6 +33,8 @@ Design thinking and design leadership.
 ### Papers
 [Microservices: A Systematic Mapping Study](https://www.scitepress.org/Papers/2016/57855/57855.pdf)
 
+[Modelling and evaluation of microservice granularity adaptation decisions](https://ethos.bl.uk/OrderDetails.do?did=2&uin=uk.bl.ethos.782437)
+
 [Monolithic To Microservices Redesign Of Event Driven Integration Platform](https://github.com/mad-folio/DBA/files/6872364/MonolithictoMicroservicesredesignofeventdrivenintegrationplatform.pdf) from [ResearchGate](https://www.researchgate.net/publication/326699683_Monolithic_to_microservices_redesign_of_event_driven_integration_platform)
 
 ### Books
